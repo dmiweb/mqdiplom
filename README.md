@@ -2,6 +2,7 @@
 ### Верстка главной страницы блога, используется гибридная вестка включающая адаптивную и резиновую. Вестка производилась с макета в формате psd с помощью Photoshop. Также применяется подход Pixel Perfect.
 
 Макет для проверки Pixel Perfect - https://github.com/netology-code/html-2-diploma/blob/master/sources/NOEMI_Modern_ru.jpg
+
 GitHub Page - https://dmiweb.github.io/mqdiplom
 
 Задачи выполненные в работе:
